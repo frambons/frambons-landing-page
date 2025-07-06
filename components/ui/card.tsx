@@ -1,4 +1,3 @@
-// Placeholder Card and CardContent components
 export function Card({ children, className }: any) {
   return <div className={className}>{children}</div>;
 }
